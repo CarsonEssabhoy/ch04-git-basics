@@ -26,3 +26,10 @@ Learn the basics of git workflow, including adding new files.
 `git push`
 
 6. check the repo on your github account.  Did it work?
+
+
+## Penguin Image
+
+![Baby Penguins](penguins.jpg)
+
+Here is an image of some baby penguins in a huddle.
